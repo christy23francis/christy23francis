@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christy Francis
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working in Angular
 - 📫 How to reach me: christy23francis@gmail.com
 
 
