@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a frontend developer with **4 years of experience** working with Angular. I have a **strong knowledge** of HTML and CSS, and I'm currently working at EY.
+I'm a frontend developer with **4 years of experience** working with Angular. I have a **strong knowledge** of HTML, CSS and JavaScript, and I'm currently working at EY.
 
 ### Previous experience 🔍
 
